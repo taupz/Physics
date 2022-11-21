@@ -1,1 +1,3 @@
-console.log("Coucou")
+for (let i = 0 ; i<5 ; i++){
+    console.log("OK")
+}
